@@ -399,27 +399,81 @@
   },
   {
     "ModuleName": "image/기본 제공 이미지",
-    "ModuleType": 37
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:41:07.2280307+09:00",
+    "ModuleType": 37,
+    "ToRemoveFiles": [
+      "image\\기본 제공 이미지"
+    ]
   },
   {
     "ModuleName": "Image/fgc_built-in-page-401.png",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:41:07.22797+09:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\기본 제공 이미지\\fgc_built-in-page-401.png"
+    ]
   },
   {
     "ModuleName": "Image/fgc_built-in-page-maintained.png",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:41:07.2280039+09:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\기본 제공 이미지\\fgc_built-in-page-maintained.png"
+    ]
   },
   {
     "ModuleName": "Image/fgc_built_in_page_disconnected.png",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:41:07.2280092+09:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\기본 제공 이미지\\fgc_built_in_page_disconnected.png"
+    ]
   },
   {
     "ModuleName": "Image/fgc_loading.gif",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:41:07.2280171+09:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\기본 제공 이미지\\fgc_loading.gif"
+    ]
   },
   {
     "ModuleName": "Image/fgc_logo_dark.svg",
-    "ModuleType": 38
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:41:07.2280224+09:00",
+    "ModuleType": 38,
+    "ToRemoveFiles": [
+      "image\\기본 제공 이미지\\fgc_logo_dark.svg"
+    ]
   },
   {
     "ModuleName": "UserService",

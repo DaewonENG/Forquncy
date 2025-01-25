@@ -105,7 +105,17 @@
   },
   {
     "ModuleName": "PCPage/페이지1",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:43:53.4754083+09:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\페이지1.json",
+      "Pages\\페이지1.rd"
+    ]
   },
   {
     "ModuleName": "MasterPCPage/FGC_유저마스터페이지",

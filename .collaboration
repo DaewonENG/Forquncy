@@ -377,7 +377,17 @@
   },
   {
     "ModuleName": "MasterPCPage/FGC_유저마스터페이지",
-    "ModuleType": 3
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:41:02.3703391+09:00",
+    "ModuleType": 3,
+    "ToRemoveFiles": [
+      "MasterPages\\FGC_유저마스터페이지.json",
+      "MasterPages\\FGC_유저마스터페이지.rd"
+    ]
   },
   {
     "ModuleName": "ApplicationSetting",

@@ -1,111 +1,379 @@
 [
   {
     "ModuleName": "Pages/기본 제공 페이지",
-    "ModuleType": 6
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:40:54.9214547+09:00",
+    "ModuleType": 6,
+    "ToRemoveFiles": [
+      "Pages\\기본 제공 페이지"
+    ]
   },
   {
     "ModuleName": "PCPage/FGC_로그인",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:40:54.9181364+09:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\기본 제공 페이지\\FGC_로그인.json",
+      "Pages\\기본 제공 페이지\\FGC_로그인.rd"
+    ]
   },
   {
     "ModuleName": "PCPage/FGC_401_권한없음",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:40:54.9183825+09:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\기본 제공 페이지\\FGC_401_권한없음.json",
+      "Pages\\기본 제공 페이지\\FGC_401_권한없음.rd"
+    ]
   },
   {
     "ModuleName": "PCPage/FGC_비밀번호변경",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:40:54.9184859+09:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\기본 제공 페이지\\FGC_비밀번호변경.json",
+      "Pages\\기본 제공 페이지\\FGC_비밀번호변경.rd"
+    ]
   },
   {
     "ModuleName": "PCPage/FGC_연결끊김",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:40:54.9185715+09:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\기본 제공 페이지\\FGC_연결끊김.json",
+      "Pages\\기본 제공 페이지\\FGC_연결끊김.rd"
+    ]
   },
   {
     "ModuleName": "PCPage/FGC_비밀번호분실",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:40:54.9186643+09:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\기본 제공 페이지\\FGC_비밀번호분실.json",
+      "Pages\\기본 제공 페이지\\FGC_비밀번호분실.rd"
+    ]
   },
   {
     "ModuleName": "PCPage/FGC_이메일알림설정",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:40:54.9189186+09:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\기본 제공 페이지\\FGC_이메일알림설정.json",
+      "Pages\\기본 제공 페이지\\FGC_이메일알림설정.rd"
+    ]
   },
   {
     "ModuleName": "PCPage/FGC_임시점검중",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:40:54.918996+09:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\기본 제공 페이지\\FGC_임시점검중.json",
+      "Pages\\기본 제공 페이지\\FGC_임시점검중.rd"
+    ]
   },
   {
     "ModuleName": "PCPage/FGC_2단계인증_인증코드",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:40:54.9191314+09:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\기본 제공 페이지\\FGC_2단계인증_인증코드.json",
+      "Pages\\기본 제공 페이지\\FGC_2단계인증_인증코드.rd"
+    ]
   },
   {
     "ModuleName": "PCPage/FGC_2단계인증_코드확인",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:40:54.9192533+09:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\기본 제공 페이지\\FGC_2단계인증_코드확인.json",
+      "Pages\\기본 제공 페이지\\FGC_2단계인증_코드확인.rd"
+    ]
   },
   {
     "ModuleName": "PCPage/FGC_사용자정보편집",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:40:54.9194609+09:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\기본 제공 페이지\\FGC_사용자정보편집.json",
+      "Pages\\기본 제공 페이지\\FGC_사용자정보편집.rd"
+    ]
   },
   {
     "ModuleName": "PCPage/FGC_비밀번호재설정",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:40:54.9195519+09:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\기본 제공 페이지\\FGC_비밀번호재설정.json",
+      "Pages\\기본 제공 페이지\\FGC_비밀번호재설정.rd"
+    ]
   },
   {
     "ModuleName": "PCPage/FGC_비밀번호재설정링크보내기",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:40:54.9196179+09:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\기본 제공 페이지\\FGC_비밀번호재설정링크보내기.json",
+      "Pages\\기본 제공 페이지\\FGC_비밀번호재설정링크보내기.rd"
+    ]
   },
   {
     "ModuleName": "Pages/기본 제공 모바일 페이지",
-    "ModuleType": 6
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:40:54.9228643+09:00",
+    "ModuleType": 6,
+    "ToRemoveFiles": [
+      "Pages\\기본 제공 모바일 페이지"
+    ]
   },
   {
     "ModuleName": "MobilePage/FGC_로그인_모바일",
-    "ModuleType": 2
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:40:54.9216631+09:00",
+    "ModuleType": 2,
+    "ToRemoveFiles": [
+      "Pages\\기본 제공 모바일 페이지\\FGC_로그인_모바일.json",
+      "Pages\\기본 제공 모바일 페이지\\FGC_로그인_모바일.rd"
+    ]
   },
   {
     "ModuleName": "MobilePage/FGC_401_권한없음_모바일",
-    "ModuleType": 2
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:40:54.9218008+09:00",
+    "ModuleType": 2,
+    "ToRemoveFiles": [
+      "Pages\\기본 제공 모바일 페이지\\FGC_401_권한없음_모바일.json",
+      "Pages\\기본 제공 모바일 페이지\\FGC_401_권한없음_모바일.rd"
+    ]
   },
   {
     "ModuleName": "MobilePage/FGC_비밀번호변경_모바일",
-    "ModuleType": 2
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:40:54.9219902+09:00",
+    "ModuleType": 2,
+    "ToRemoveFiles": [
+      "Pages\\기본 제공 모바일 페이지\\FGC_비밀번호변경_모바일.json",
+      "Pages\\기본 제공 모바일 페이지\\FGC_비밀번호변경_모바일.rd"
+    ]
   },
   {
     "ModuleName": "MobilePage/FGC_연결끊김 (모바일)",
-    "ModuleType": 2
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:40:54.9221103+09:00",
+    "ModuleType": 2,
+    "ToRemoveFiles": [
+      "Pages\\기본 제공 모바일 페이지\\FGC_연결끊김 (모바일).json",
+      "Pages\\기본 제공 모바일 페이지\\FGC_연결끊김 (모바일).rd"
+    ]
   },
   {
     "ModuleName": "MobilePage/FGC_비밀번호분실_모바일",
-    "ModuleType": 2
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:40:54.9221998+09:00",
+    "ModuleType": 2,
+    "ToRemoveFiles": [
+      "Pages\\기본 제공 모바일 페이지\\FGC_비밀번호분실_모바일.json",
+      "Pages\\기본 제공 모바일 페이지\\FGC_비밀번호분실_모바일.rd"
+    ]
   },
   {
     "ModuleName": "MobilePage/FGC_이메일알림설정_모바일",
-    "ModuleType": 2
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:40:54.9223133+09:00",
+    "ModuleType": 2,
+    "ToRemoveFiles": [
+      "Pages\\기본 제공 모바일 페이지\\FGC_이메일알림설정_모바일.json",
+      "Pages\\기본 제공 모바일 페이지\\FGC_이메일알림설정_모바일.rd"
+    ]
   },
   {
     "ModuleName": "MobilePage/FGC_임시점검중_모바일",
-    "ModuleType": 2
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:40:54.9223851+09:00",
+    "ModuleType": 2,
+    "ToRemoveFiles": [
+      "Pages\\기본 제공 모바일 페이지\\FGC_임시점검중_모바일.json",
+      "Pages\\기본 제공 모바일 페이지\\FGC_임시점검중_모바일.rd"
+    ]
   },
   {
     "ModuleName": "MobilePage/FGC_2단계인증_인증코드_모바일",
-    "ModuleType": 2
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:40:54.9224485+09:00",
+    "ModuleType": 2,
+    "ToRemoveFiles": [
+      "Pages\\기본 제공 모바일 페이지\\FGC_2단계인증_인증코드_모바일.json",
+      "Pages\\기본 제공 모바일 페이지\\FGC_2단계인증_인증코드_모바일.rd"
+    ]
   },
   {
     "ModuleName": "MobilePage/FGC_2단계인증_코드확인_모바일",
-    "ModuleType": 2
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:40:54.9225552+09:00",
+    "ModuleType": 2,
+    "ToRemoveFiles": [
+      "Pages\\기본 제공 모바일 페이지\\FGC_2단계인증_코드확인_모바일.json",
+      "Pages\\기본 제공 모바일 페이지\\FGC_2단계인증_코드확인_모바일.rd"
+    ]
   },
   {
     "ModuleName": "MobilePage/FGC_사용자정보편집_모바일",
-    "ModuleType": 2
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:40:54.9226982+09:00",
+    "ModuleType": 2,
+    "ToRemoveFiles": [
+      "Pages\\기본 제공 모바일 페이지\\FGC_사용자정보편집_모바일.json",
+      "Pages\\기본 제공 모바일 페이지\\FGC_사용자정보편집_모바일.rd"
+    ]
   },
   {
     "ModuleName": "MobilePage/FGC_비밀번호재설정링크보내기_모바일",
-    "ModuleType": 2
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:40:54.9227662+09:00",
+    "ModuleType": 2,
+    "ToRemoveFiles": [
+      "Pages\\기본 제공 모바일 페이지\\FGC_비밀번호재설정링크보내기_모바일.json",
+      "Pages\\기본 제공 모바일 페이지\\FGC_비밀번호재설정링크보내기_모바일.rd"
+    ]
   },
   {
     "ModuleName": "MobilePage/FGC_비밀번호재설정_모바일",
-    "ModuleType": 2
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:40:54.922856+09:00",
+    "ModuleType": 2,
+    "ToRemoveFiles": [
+      "Pages\\기본 제공 모바일 페이지\\FGC_비밀번호재설정_모바일.json",
+      "Pages\\기본 제공 모바일 페이지\\FGC_비밀번호재설정_모바일.rd"
+    ]
   },
   {
     "ModuleName": "PCPage/페이지1",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "지승현",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2025-01-25T13:40:54.9228972+09:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\페이지1.json",
+      "Pages\\페이지1.rd"
+    ]
   },
   {
     "ModuleName": "MasterPCPage/FGC_유저마스터페이지",
